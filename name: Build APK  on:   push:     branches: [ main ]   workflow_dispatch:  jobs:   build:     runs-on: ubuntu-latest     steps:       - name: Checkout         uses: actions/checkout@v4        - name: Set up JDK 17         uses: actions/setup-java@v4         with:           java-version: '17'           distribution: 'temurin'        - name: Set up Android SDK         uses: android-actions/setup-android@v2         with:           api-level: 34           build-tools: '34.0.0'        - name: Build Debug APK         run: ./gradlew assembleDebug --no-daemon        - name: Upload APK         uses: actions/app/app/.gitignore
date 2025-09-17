@@ -1,0 +1,9 @@
+/.gradle
+/build
+/local.properties
+/.idea
+/.vscode
+**/build/
+**/captures/
+**/*.iml
+gradle-app.setting
