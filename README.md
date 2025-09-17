@@ -33,3 +33,12 @@ jobs:
         with:
           name: app-debug
           path: app/build/outputs/apk/debug/app-debug.apk
+
+
+
+
+          ---------------------------------------------------------
+          # Snappy Ruler Set
+
+Open in Android Studio and run `./gradlew assembleDebug` to build the debug APK.
+
